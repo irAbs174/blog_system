@@ -1,6 +1,0 @@
-[flake8]
-exclude =
-    migrations,
-	__init__.py,
-    settings,
-max-line-length = 88
